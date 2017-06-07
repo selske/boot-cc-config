@@ -1,0 +1,3 @@
+cc:
+  cache:
+      clear-interval: 20000
