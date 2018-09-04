@@ -2,4 +2,4 @@ cc:
   cache:
       clear-interval: 50000
   custom:
-      message: dev boodschap!
+      message: dev boodschap voor trainees!
